@@ -1,0 +1,6 @@
+venv/
+logs/
+Anime_Recommender.egg-info/
+.env
+AI+Anime+Recommender+Workflow.png
+FULL_DOCUMENTATION.md
